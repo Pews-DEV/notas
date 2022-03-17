@@ -5,9 +5,9 @@ class Header extends Component {
   render() {
     return (
       <>
-        <header class="menu-bg">
-          <div class="menu">
-            <div class="menu-logo">
+        <header className="menu-bg">
+          <div className="menu">
+            <div className="menu-logo">
               <a href="/">Notes</a>
             </div>
           </div>

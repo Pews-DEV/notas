@@ -1,11 +1,11 @@
 .lista-notas {
   background-color: var(--fundo);
   flex-grow: 3;
-  display: grid;
-  grid-template-columns: auto auto auto auto auto;
+  display: flex;
+  flex-wrap: wrap;
   list-style-type: none;
-  padding-left: 24px;
-  padding-top: 24px;
+  padding: 10px;
+  max-width: 480px;
 }
 .lista-notas_item {
   margin: 12px;

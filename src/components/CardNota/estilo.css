@@ -14,14 +14,16 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 100%;
+  border-bottom: 1px solid rgba(55, 55, 55, 0.1);
 }
 
 .card-nota_texto {
-  margin-top: 8px;
+  margin-top: 15px;
   font-size: 1em;
 }
 
 .card-nota_titulo {
-  font-size: 1.2em;
+  font-size: 1.25em;
   margin-right: 12px;
 }
