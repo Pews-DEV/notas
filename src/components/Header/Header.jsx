@@ -10,16 +10,6 @@ class Header extends Component {
             <div class="menu-logo">
               <a href="/">Notes</a>
             </div>
-            <nav class="menu-nav">
-              <ul>
-                <li>
-                  <a href="#sobre">notas</a>
-                </li>
-                <li>
-                  <a href="#produtos">criar notas</a>
-                </li>
-              </ul>
-            </nav>
           </div>
         </header>
       </>
